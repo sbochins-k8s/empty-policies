@@ -8,3 +8,4 @@ spec:
     - kind: ResourceQuota
       versions:
       - version: v1
+        stuff: things
